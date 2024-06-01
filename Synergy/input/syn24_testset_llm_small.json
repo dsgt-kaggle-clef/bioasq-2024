@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+        "answerReady": true,
+        "id": "63b6de63c6c7d4d31b000039",
+        "type": "yesno",
+        "body": "Should next-generation sequencing (NGS) be systematically performed for advanced colon cancer patients in routine clinical practice?"
+    },
+    {
+        "answerReady": true,
+        "id": "659838b906a2ea257c000033",
+        "type": "summary",
+        "body": "What is the main function of deubiquitylating enzyme (DUB)?"
+    },
+    {
+      "answerReady": true,
+      "id": "658f355206a2ea257c00000b",
+      "type": "list",
+      "body": "Which are the differences between senolytics and senomorphics?"
+    },
+    {
+        "answerReady": true,
+        "id": "658f3e7106a2ea257c000016",
+        "type": "factoid",
+        "body": "Which is the most efficient therapy for light chain amyloidosis (AL)?"
+    }
+  ]
+}

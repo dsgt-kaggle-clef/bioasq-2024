@@ -1,0 +1,5 @@
+openai==1.13.3
+scipy==1.10.1
+sentencepiece==0.1.96
+spacy==3.7.4
+torchvision==0.17.0

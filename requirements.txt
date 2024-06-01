@@ -1,0 +1,8 @@
+python==3.9.18
+scipy==1.10.1
+scispacy==0.4.0
+torch==2.2.0
+sentence-transformers==2.3.1
+rouge
+openai
+python-dotenv
